@@ -1,0 +1,90 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	
+	background-color: #23222a;
+	font-family: Segoe UI;
+
+}
+.rich-nav
+{
+	min-height: 60px;
+	height: 60px;
+
+}
+.anchor
+{
+	color: #000000;
+	font-family: Segoe UI;
+	font-size: 15pt;
+}
+.nav-anchor
+{
+
+line-height: 60px;
+vertical-align: center;
+}
+.nav-anchor a
+{
+	color: #ffffff;
+	text-decoration: none;
+
+}
+.nav-anchor a:hover
+{
+	text-decoration: none;
+}
+.main-display
+{
+	
+	height: 100vh;
+}
+
+.profile-pic
+{
+	margin-top: 5vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.name
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 15vh;
+}
+.main
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: Segoe UI;
+	color: #ffffff;
+	height: 15vh;
+
+}
+.social
+{
+
+	margin-top: 15vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.socio-ico
+{
+	margin-left: 20px;
+	display: flex;
+	align-items: center;
+	align-content: center;
+	vertical-align: center;
+	
+}
+.img-ico
+{
+
+	width: 50px;
+	height: auto;
+}
