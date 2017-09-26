@@ -1,0 +1,103 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #232129;
+	font-family: Segoe UI;
+
+}
+.rich-nav
+{
+	min-height: 60px;
+	height: 60px;
+
+}
+.anchor
+{
+	color: #000000;
+	font-family: Segoe UI;
+	font-size: 15pt;
+}
+.nav-anchor
+{
+
+line-height: 60px;
+vertical-align: center;
+}
+.nav-anchor a
+{
+	color: #ffffff;
+	text-decoration: none;
+
+}
+.nav-anchor a:hover
+{
+	text-decoration: none;
+}
+.main-display
+{
+	
+	height: 100vh;
+}
+
+.profile-pic
+{
+	margin-top: 5vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.name
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 15vh;
+}
+.main
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: Segoe UI;
+	color: #ffffff;
+	height: 15vh;
+
+}
+.main-page
+{
+	height: 100vh;
+}
+.social
+{
+
+	margin-top: 12vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.socio-ico
+{
+	margin-left: 20px;
+	display: flex;
+	align-items: center;
+	align-content: center;
+	vertical-align: center;
+	
+}
+.img-ico
+{
+
+	width: 35px;
+	height: auto;
+}
+.about-page
+{
+	height: 100vh;
+
+}
+.skills
+{
+	margin-bottom:25px;
+}
