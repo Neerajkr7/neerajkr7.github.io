@@ -1,6 +1,7 @@
 body
 {
 	width:100vw !important;
+	overflow-x:hidden;
 	margin: 0;
 	padding: 0;
 	background-color: #232129;
