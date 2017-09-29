@@ -2,6 +2,7 @@ body
 {
 	width:100vw !important;
 	overflow-x:hidden;
+	overflow-y:auto;
 	margin: 0;
 	padding: 0;
 	background-color: #232129;
