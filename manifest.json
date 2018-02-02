@@ -5,11 +5,4 @@
 	"description": "Neeraj KR is UI Developer/Full Stack Developer based on Kerala,India.",
 	"background_color":"#635998",
 	"display": "browser",
-	"icons":[{
-		"src": "POL.jpg",
-		"type": "image/jpg",
-		"sizes": "150x150"
-	}
-	],
-
 }
