@@ -1,8 +1,22 @@
 {
-	"Name": "Neeraj KR- UI Developer",
+  "manifest_version":2,
+  "version":"1.0",
+  "lang": "en",
+	"name": "Neeraj KR- UI Developer",
 	"short_name": "Neeraj KR",
 	"theme_color": "#635998",
 	"description": "Neeraj KR is UI Developer/Full Stack Developer based on Kerala,India.",
 	"background_color":"#635998",
 	"display": "browser",
+  "orientation":"any",
+  "related_applications": false,
+  "start_url":".",
+  "related_applications": [{
+    "platform": "web"
+  }],
+  "icons": [{
+    "name": "icon",
+    "src": "POL.jpg",
+    "sizes": "192x192"
+  }]
 }
