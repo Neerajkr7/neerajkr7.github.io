@@ -7,7 +7,7 @@
 	"theme_color": "#635998",
 	"description": "Neeraj KR is UI Developer/Full Stack Developer based on Kerala,India.",
 	"background_color":"#635998",
-	"display": "browser",
+  "display":"standalone",
   "orientation":"any",
   "related_applications": false,
   "start_url":".",
